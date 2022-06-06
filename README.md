@@ -1,4 +1,10 @@
-<h1> Hi! My name is Carlos Henrique. </h1>
+<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/WakCHaKal/61a98338cad2f44abf11ea88efce5110/raw/e612f4e57854db455c3e2ad77e57a965834d92bc/githubcard.svg"/>
+
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Carlos Henrique</h1>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=WakCHaKal&color=yellow" alt="Profile views" /> </p>
+
+
 
 <div>
   <a href="https://github.com/WakCHaKal">
