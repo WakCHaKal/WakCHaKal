@@ -6,15 +6,13 @@
 
 - 🔥 Sou analista contábil em transição de carreira;  
 
-- 🔭 Atualmente estou a procura de trabalho;
+- 👨‍💻 Meus projetos estão neste GitHub e no Codepen;
 
-- 👨‍💻 meus projetos estão neste GitHub e no Codepen
+- :pencil: Eu também escrevo alguns posts no LinkedIn
 
-- ▶️ Eu também escrevo alguns posts no LinkedIn
+- 💬 Qualquer dúvida, estou à disposição
 
-- 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS**
-
-- ⚡ Fun fact **Oneye 😜**
+- ⚡😜 🐻
 
 
 
